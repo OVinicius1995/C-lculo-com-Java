@@ -5,13 +5,8 @@
 
 <div> 
 
-  <p> Neste desafio apenas foi solicitado que fizessemos um mini controle de notas de alunos.  </p> 
+  <p> Neste desafio apenas foi solicitado que fizesse um mini controle de notas de alunos.  </p> 
 
-</div>
-
-<div align="left">
-
-      <h2>Critérios de aceite</h2>
 </div>
 
 <ul>
@@ -30,9 +25,9 @@
 
   <h4>Classes</h4>
   
-  [Classe aluno](https://github.com/OVinicius1995/POO---JAVA/blob/main/vacinacao/src/Cadastro.java) Esta é uma classe abstrata que foi criada para receber as             informações das notas dos alunos, quantidade de presença, e seta a quantidade de encontros.
+  [Classe aluno](https://github.com/OVinicius1995/Calculo-com-Java/blob/main/Escola/src/Aluno.java) Esta é uma classe abstrata que foi criada para receber as             informações das notas dos alunos, quantidade de presença, e seta a quantidade de encontros.
   
-  [Classe aluno](https://github.com/OVinicius1995/POO---JAVA/blob/main/vacinacao/src/Cadastro.java) Já esta é uma classe que foi criada para realizar os cálculos.
+  [Classe calculo](https://github.com/OVinicius1995/Calculo-com-Java/blob/main/Escola/src/Caculo.java) Já esta é uma classe que foi criada para realizar os cálculos.
 <hr>
 
 <div align="center">
