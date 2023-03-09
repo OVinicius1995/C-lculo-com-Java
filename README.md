@@ -1,4 +1,4 @@
-<div> 
+<div align="center"> 
     <h1> Este é mais simples apenas um cáculo com Java <img align="center" alt="Vinicius-Java" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> </h1> 
 </div>
